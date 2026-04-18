@@ -1,6 +1,6 @@
-# How Poor Am I — 项目学习笔记
 
-> 基于对 [howpoorami](https://github.com/yantao006/howpoorami) 项目的完整分析整理。
+
+> 基于对 [howpoorami](https://github.com/yrunhaar/howpoorami) 项目的完整分析整理。
 > 涵盖数据管道、统计算法、前端可视化技巧、以及与 AI Agent 协作的方法论。
 
 ---

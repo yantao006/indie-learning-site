@@ -1,0 +1,35 @@
+{
+  "id": "conv-1776608863130-ovthgym2t",
+  "providerId": "claude",
+  "title": "hello",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776608863134,
+  "updatedAt": 1776613910024,
+  "lastResponseAt": 1776613910024,
+  "sessionId": "49e6b88e-a038-412f-b1a4-e151fe0a4ef7",
+  "providerState": {
+    "providerSessionId": "49e6b88e-a038-412f-b1a4-e151fe0a4ef7",
+    "previousProviderSessionIds": [
+      "917b9688-7b61-406d-a5e8-f502127bc803",
+      "4e04e462-3ff9-4ea3-9012-091631e95abe",
+      "e17dd7b5-d0f6-4f34-bfde-d3e40c573915",
+      "4ccc9870-78be-4146-9e6a-d2512f49b3ee",
+      "31ff5316-e96a-4f16-9079-43e4d0615005",
+      "a0202b91-a221-4c6e-b0cb-3668ead2506f",
+      "900a12cd-d84f-45ce-a1bd-e70a32a0d81e",
+      "153a0907-b775-42e5-9f92-1c7334181a3b",
+      "a07f68bb-d831-4b7b-8afd-caf37f66f1e6",
+      "ffc0eaf1-873f-4b6e-8939-d43cd215f008"
+    ]
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 24246,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 24256,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}
